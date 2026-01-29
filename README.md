@@ -1,2 +1,2 @@
-# shell
-## Some shell scripts for Linux server.
+# Linux
+Shell scripts for Linux server.
